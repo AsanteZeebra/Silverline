@@ -193,7 +193,7 @@ include_once('headertabs.php');
                 
                 <div class="col-lg-6 mt-4">
                     <div class="member d-flex align-items-start">
-                      <div class="pic"><img src="assets/img/doctors/lawyer.jpg" class="img-fluid" alt=""></div>
+                      <!-- <div class="pic"><img src="assets/img/doctors/lawyer.jpg" class="img-fluid" alt=""></div> -->
                       <div class="member-info">
                         <h4>Mr. David Junior Dumphe.</h4>
                         <span>Lawyer</span>
@@ -212,7 +212,7 @@ include_once('headertabs.php');
               
                   <div class="col-lg-6 mt-4">
                     <div class="member d-flex align-items-start">
-                     <div class="pic"><img src="assets/img/doctors/nutri-nurse.jpg" class="img-fluid" alt=""></div>  
+                     <!-- <div class="pic"><img src="assets/img/doctors/nutri-nurse.jpg" class="img-fluid" alt=""></div>   -->
                         <div class="member-info">
                             <h4>Joana Jewel Nayram Parku </h4>
                             <span>nutritionist</span>
