@@ -70,7 +70,7 @@ include_once('headertabs.php');
         <div class="row">
             <div
                 class="col-xl-5 col-lg-6 video-box d-flex justify-content-center align-items-stretch position-relative">
-                <a href="" class="glightbox play-btn mb-4"></a>
+                <a href="#" class=" mb-4"></a>
             </div>
 
             <div
@@ -163,9 +163,9 @@ include_once('headertabs.php');
                             <span>Consultant</span>
                             <p> </p>
                             <div class="social">
-                                <a href=""><i class="ri-twitter-fill"></i></a>
-                                <a href=""><i class="ri-facebook-fill"></i></a>
-                                <a href=""><i class="ri-instagram-fill"></i></a>
+                                <a href="#"><i class="ri-twitter-fill"></i></a>
+                                <a href="#"><i class="ri-facebook-fill"></i></a>
+                                <a href="#"><i class="ri-instagram-fill"></i></a>
 
                             </div>
                         </div>
@@ -181,9 +181,9 @@ include_once('headertabs.php');
                             <span>Manager</span>
                             <p></p>
                             <div class="social">
-                                <a href=""><i class="ri-twitter-fill"></i></a>
-                                <a href=""><i class="ri-facebook-fill"></i></a>
-                                <a href=""><i class="ri-instagram-fill"></i></a>
+                                <a href="#"><i class="ri-twitter-fill"></i></a>
+                                <a href="#"><i class="ri-facebook-fill"></i></a>
+                                <a href="#"><i class="ri-instagram-fill"></i></a>
 
                             </div>
                         </div>
@@ -199,9 +199,9 @@ include_once('headertabs.php');
                         <span>Lawyer</span>
                         <p></p>
                         <div class="social">
-                          <a href=""><i class="ri-twitter-fill"></i></a>
-                          <a href=""><i class="ri-facebook-fill"></i></a>
-                          <a href=""><i class="ri-instagram-fill"></i></a>
+                          <a href="#"><i class="ri-twitter-fill"></i></a>
+                          <a href="#"><i class="ri-facebook-fill"></i></a>
+                          <a href="#"><i class="ri-instagram-fill"></i></a>
                       
                         </div>
                       </div>
@@ -218,9 +218,9 @@ include_once('headertabs.php');
                             <span>nutritionist</span>
                             <p></p>
                             <div class="social">
-                                <a href=""><i class="ri-twitter-fill"></i></a>
-                                <a href=""><i class="ri-facebook-fill"></i></a>
-                                <a href=""><i class="ri-instagram-fill"></i></a>
+                                <a href="#"><i class="ri-twitter-fill"></i></a>
+                                <a href="#"><i class="ri-facebook-fill"></i></a>
+                                <a href="#"><i class="ri-instagram-fill"></i></a>
 
                             </div>
                         </div>
@@ -238,9 +238,9 @@ include_once('headertabs.php');
                             <span>Mental Health Advocate</span>
                             <p> </p>
                             <div class="social">
-                                <a href=""><i class="ri-twitter-fill"></i></a>
-                                <a href=""><i class="ri-facebook-fill"></i></a>
-                                <a href=""><i class="ri-instagram-fill"></i></a>
+                                <a href="#"><i class="ri-twitter-fill"></i></a>
+                                <a href="#"><i class="ri-facebook-fill"></i></a>
+                                <a href="#"><i class="ri-instagram-fill"></i></a>
 
                             </div>
                         </div>
@@ -256,9 +256,9 @@ include_once('headertabs.php');
                             <span>Nurses Supervisor</span>
                             <p> </p>
                             <div class="social">
-                                <a href=""><i class="ri-twitter-fill"></i></a>
-                                <a href=""><i class="ri-facebook-fill"></i></a>
-                                <a href=""><i class="ri-instagram-fill"></i></a>
+                                <a href="#"><i class="ri-twitter-fill"></i></a>
+                                <a href="#"><i class="ri-facebook-fill"></i></a>
+                                <a href="#"><i class="ri-instagram-fill"></i></a>
 
                             </div>
                         </div>
@@ -275,9 +275,9 @@ include_once('headertabs.php');
                             <span>Auditor</span>
                             <p> </p>
                             <div class="social">
-                                <a href=""><i class="ri-twitter-fill"></i></a>
-                                <a href=""><i class="ri-facebook-fill"></i></a>
-                                <a href=""><i class="ri-instagram-fill"></i></a>
+                                <a href="#"><i class="ri-twitter-fill"></i></a>
+                                <a href="#"><i class="ri-facebook-fill"></i></a>
+                                <a href="#"><i class="ri-instagram-fill"></i></a>
 
                             </div>
                         </div>
@@ -292,9 +292,9 @@ include_once('headertabs.php');
                             <span>I.T Epert</span>
                             <p> </p>
                             <div class="social">
-                                <a href=""><i class="ri-twitter-fill"></i></a>
-                                <a href=""><i class="ri-facebook-fill"></i></a>
-                                <a href=""><i class="ri-instagram-fill"></i></a>
+                                <a href="#"><i class="ri-twitter-fill"></i></a>
+                                <a href="https://www.facebook.com/asante.michael.184"><i class="ri-facebook-fill"></i></a>
+                                <a href="#"><i class="ri-instagram-fill"></i></a>
 
                             </div>
                         </div>
