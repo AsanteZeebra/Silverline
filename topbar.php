@@ -7,7 +7,7 @@
                 <i class="bi bi-phone"></i> +233597428658 / +233530964842
       </div>
       <div class="d-none d-lg-flex social-links align-items-center">
-        <a href="#" class="twitter"><i class="bi bi-x"></i></a>
+        <a href="#" class="twitter"><i class="bi bi-twitter-x"></i></a>
         <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
         <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
        
