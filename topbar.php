@@ -4,10 +4,10 @@
       <div class="contact-info d-flex align-items-center">
         <i class="bi bi-envelope"></i> <a
                     href="mailto:info@silverlinehealthcare.com">info@silverlinehealthcare.com</a>
-                <i class="bi bi-phone"></i> 0530964842 / 0500247583
+                <i class="bi bi-phone"></i> +233597428658 / +233530964842
       </div>
       <div class="d-none d-lg-flex social-links align-items-center">
-        <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
+        <a href="#" class="twitter"><i class="bi bi-x"></i></a>
         <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
         <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
        
