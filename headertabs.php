@@ -12,7 +12,7 @@
           <li><a class="nav-link scrollto" href="about.php">About</a></li>
           <li><a class="nav-link scrollto" href="services.php">Services</a></li>
 
-          <li><a class="nav-link scrollto" href="nurses.php">Nurses</a></li>
+          <!-- <li><a class="nav-link scrollto" href="nurses.php">Nurses</a></li> -->
 
           <li><a class="nav-link scrollto" href="contact.php">Contact</a></li>
         </ul>
