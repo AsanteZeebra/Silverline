@@ -279,7 +279,7 @@ include_once('headertabs.php');
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
                   <img src="assets/img/testimonials/" class="testimonial-img" alt="">
-                  <h3>Newbern Alex Asamoah</h3>
+                  <h3>Nana Korankye</h3>
                   <h4> Client</h4>
                   <p>
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
@@ -296,7 +296,7 @@ include_once('headertabs.php');
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
                   <img src="assets/img/testimonials/" class="testimonial-img" alt="">
-                  <h3>Franklina Bema</h3>
+                  <h3>Stephen Asante</h3>
                   <h4>Client</h4>
                   <p>
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
@@ -311,7 +311,7 @@ include_once('headertabs.php');
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
                   <img src="assets/img/testimonials/" class="testimonial-img" alt="">
-                  <h3>Rosina Ocrah</h3>
+                  <h3>John Mensah</h3>
                   <h4>Client</h4>
                   <p>
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
@@ -386,7 +386,11 @@ include_once('headertabs.php');
       </div>
     </section><!-- End Gallery Section -->
 
-    
+    <section class="map">
+<div>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3970.862674597646!2d-0.2823690250146234!3d5.587305994393407!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNcKwMzUnMTQuMyJOIDDCsDE2JzQ3LjMiVw!5e0!3m2!1sen!2sgh!4v1748935265038!5m2!1sen!2sgh" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+    </section>
 
 
   </main><!-- End #main -->
