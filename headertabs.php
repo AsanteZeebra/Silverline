@@ -4,7 +4,7 @@
 
       <!--<h1 class="logo me-auto"><a href="index.html">Silverline</a></h1>-->
       <!-- Uncomment below if you prefer to use an image logo -->
-     <a href="index.php" class="me-auto"><img src="assets/img/nlg1.png" alt="" class="img-fluid" style="width: 120px; height:100px"></a>
+     <a href="index.php" class="me-auto"><img src="assets/img/ss.png" alt="" class="img-fluid" style="width: 120px; height:100px"></a>
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>

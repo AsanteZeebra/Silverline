@@ -7,11 +7,11 @@
                     <div class="col-lg-3 col-md-6 footer-contact">
                         <h3>Silverline</h3>
                         <p>
-                          Abokobi - Akporman behind Hotel De - Doris<br>
+                        Awoshie station. Ablekuma-Awoshie highway<br>
                             Accra<br>
                             Ghana <br><br>
                             <strong>Phone:</strong> +233 53 096 4842 +233 50 024 7583<br>
-                          <strong>Email:</strong> info@silverlinehealthcare.com<br>
+                          <strong>Email:</strong> info@silverline.com<br>
                         </p>
                     </div>
 
@@ -32,7 +32,7 @@
 
             <div class="me-md-auto text-center text-md-start">
                 <div class="copyright">
-                    &copy; Copyright <strong><span>silverlinehealthcare</span></strong>. All Rights Reserved
+                    &copy; Copyright <strong><span>silverlinenursingandhomcare</span></strong>. All Rights Reserved
                 </div>
                 <div class="credits">
                   
