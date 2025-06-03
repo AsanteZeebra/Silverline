@@ -386,10 +386,11 @@ include_once('headertabs.php');
       </div>
     </section><!-- End Gallery Section -->
 
-    
-<div style="margin-top: 50px; margin-bottom: 50px; width: 100%;">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3970.862674597646!2d-0.2823690250146234!3d5.587305994393407!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNcKwMzUnMTQuMyJOIDDCsDE2JzQ3LjMiVw!5e0!3m2!1sen!2sgh!4v1748935265038!5m2!1sen!2sgh" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+ <div class="d-flex justify-content-center my-5">   
+<div class="ratio ratio-16x9 " style="max-width: 100px; width: 100%;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3970.862674597646!2d-0.2823690250146234!3d5.587305994393407!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNcKwMzUnMTQuMyJOIDDCsDE2JzQ3LjMiVw!5e0!3m2!1sen!2sgh!4v1748935265038!5m2!1sen!2sgh" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+  </div>
     
 
 
