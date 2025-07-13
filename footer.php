@@ -11,7 +11,7 @@
                             Accra<br>
                             Ghana <br><br>
                             <strong>Phone:</strong> +233 53 096 4842 +233 50 024 7583<br>
-                          <strong>Email:</strong> info@silverline.com<br>
+                          <strong>Email:</strong> info@silverlinenursingandhomecare.com<br>
                         </p>
                     </div>
 
