@@ -152,7 +152,7 @@ include_once('headertabs.php');
 
             </div>
 
-            <div class="row" data-aos="fade-up">
+            <div class="row" hidden="true">
 
        
                 <div class="col-lg-6 mt-4 mt-lg-0">
