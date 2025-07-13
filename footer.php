@@ -10,7 +10,7 @@
                         Awoshie station. Ablekuma-Awoshie highway<br>
                             Accra<br>
                             Ghana <br><br>
-                            <strong>Phone:</strong> +233 53 096 4842 +233 50 024 7583<br>
+                            <strong>Phone:</strong> +233 59 742 8658<br>
                           <strong>Email:</strong> info@silverlinenursingandhomecare.com<br>
                         </p>
                     </div>
