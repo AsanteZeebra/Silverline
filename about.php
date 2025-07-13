@@ -147,7 +147,7 @@ include_once('headertabs.php');
     <section id="doctors" class="doctors">
         <div class="container">
 
-            <div class="section-title" >
+            <div class="section-title" hidden="true">
                 <h2>Our Team</h2>
 
             </div>
