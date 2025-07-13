@@ -147,12 +147,12 @@ include_once('headertabs.php');
     <section id="doctors" class="doctors">
         <div class="container">
 
-            <div class="section-title" hidden>
+            <div class="section-title" >
                 <h2>Our Team</h2>
 
             </div>
 
-            <div class="row">
+            <div class="row" data-aos="fade-up">
 
        
                 <div class="col-lg-6 mt-4 mt-lg-0">
